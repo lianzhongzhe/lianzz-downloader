@@ -42,7 +42,7 @@ pip install lianzz-downloader
 From source:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/lianzhongzhe/lianzz-downloader
 cd lianzz-downloader
 pip install .
 ```
