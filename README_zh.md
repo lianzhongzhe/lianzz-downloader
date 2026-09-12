@@ -1,4 +1,4 @@
-# lianzz-downloader
+# lianzz-downloader(v1.0.0)
 
 通过 HTTP Range 实现的 Python 多线程分段下载器。一个文件被切成 N 段，每段由独立线程并发拉取，最后就地写入同一文件 —— 这是 IDM、aria2、axel 的核心思路。
 
