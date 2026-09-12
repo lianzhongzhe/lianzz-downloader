@@ -1,6 +1,6 @@
-# lianzz-downloader
+# lianzz-downloader(v1.1.0)
 
-[简体中文](/README_zh.md)
+[简体中文(v1.0.0)](/README_zh.md)
 
 > **Package distribution name**: `lianzz-downloader` (used by `pip install`)
 > **Python import name**: `fastdownloader` (used by `import fastdownloader`)
